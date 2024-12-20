@@ -1,3 +1,5 @@
+![Primary logo](https://github.com/user-attachments/assets/cb0e2d8a-90f4-4bb0-a813-31e578aaf68f)
+
 # Webflow Lottie Lazy Loader
 A js package that when put into a webflow website will enable lazy loading of Lottie animations. This will also pause any off-screen Lottie animations to further improve performance.
 
